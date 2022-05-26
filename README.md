@@ -3,8 +3,6 @@
   - Industrial Internet of Things
   - UAV Communications
   - Operation Research
-- My ORCID can be found in https://orcid.org/0000-0002-7398-0906
-- My Hexo blog is https://jiankychen.github.io/
 
 <!---
 jiankychen/jiankychen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
