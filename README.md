@@ -1,4 +1,4 @@
-- Hi, I’m @jiankychen, a master student in Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, China.
+- Hi, I’m @jiankychen, a master student in South China University of Technology, China.
 - My research interests include:
   - Industrial Internet of Things
   - UAV Communications
