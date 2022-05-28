@@ -4,7 +4,8 @@
   - UAV Communications
   - Operation Research
 
-Actually, I've built a Hexo blog by Gitee Pages. The website is https://jiankychen.gitee.io/
+My personal blog can be found in https://jiankychen.github.io/
+In addition, I've built a Hexo blog by Gitee Pages. The website is https://jiankychen.gitee.io/
 
 <!---
 jiankychen/jiankychen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
