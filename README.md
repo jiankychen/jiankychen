@@ -1,8 +1,4 @@
-- Hi, I’m @jiankychen, a master student in South China University of Technology, China.
-- My research interests include:
-  - Industrial Internet of Things
-  - UAV Communications
-  - Operation Research
+- Hi, I’m @jiankychen, a master student in Guangzhou, China.
 
 - My personal blog can be found in https://jiankychen.github.io/
 
