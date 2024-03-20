@@ -1,4 +1,4 @@
-- Hi, I’m @jiankychen, a master student in Guangzhou, China.
+- Hi, I’m @jiankychen, a software engineer in ShenZhen, China.
 
 - My personal blog can be found in https://jiankychen.github.io/
 
